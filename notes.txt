@@ -1,0 +1,7 @@
+== - Equals To 
+!= - Not Equal to 
+> - greater than  a > 10 
+>=  -- greater than or equal To 
+
+< - less than a < 10 
+<= - less than or equal to a <= 10 
