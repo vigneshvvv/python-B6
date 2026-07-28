@@ -1,6 +1,6 @@
 users = [{
     "userName": "Vignesh",
-    "password": "Vignesh@123"
+    "password": "Vignesh@123",
 },
 {
     "userName": "Sathish",
